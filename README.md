@@ -1,6 +1,7 @@
-<div id ="header" align = "center"> 
-  ![dsc-image](giphy.gif) / ![](giphy.gif)
-<div/>
+![Joon Ha cha data analyst](https://user-images.githubusercontent.com/63988120/171961744-a5f01583-411f-44a3-a4e0-0a6cc58b349c.png)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/kier0813/kier0813)](https://github.com/kier0813/) -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joon-cha-8a71ba219/)
+
 
 <!--
 **kier0813/kier0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
