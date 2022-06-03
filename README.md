@@ -23,7 +23,6 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 <br>
 
 ## 📊Github Stats ##
-
 <a href="https://github.com/kier0813">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kier0813&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -34,7 +33,16 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 ## 🔧Skills ##
 
-  
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-D3-informational?style=flat&logo=D3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
 
 
 <!--
