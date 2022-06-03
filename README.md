@@ -1,6 +1,7 @@
-<div id ="header" align = "center">
-  <img src="https://giphy.com/embed/Xbn8ZbO95YeOJQtJz7" width="384" height="480" frameBorder="0" alt = "Image not found"</iframe>   
+<div id ="header" align = "center"> 
+  ![dsc-image](giphy.gif) / ![](giphy.gif)
 <div/>
+
 <!--
 **kier0813/kier0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
