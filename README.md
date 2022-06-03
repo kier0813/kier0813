@@ -1,6 +1,40 @@
 ![Joon Ha cha data analyst](https://user-images.githubusercontent.com/63988120/171961744-a5f01583-411f-44a3-a4e0-0a6cc58b349c.png)
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/kier0813/kier0813)](https://github.com/kier0813/) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joon-cha-8a71ba219/)
+
+# 👋Hello!
+
+I'm a passionate data analyst/scientist who is eager to learn about new materials and languages. Have grown up in Korea, China, and Us, experiencing diverse culture that helps to merge with others very well. Ready to cooperate with and listen to others well and desire to take in new knowledge and skills.
+
+
+
+## 📌Pinned Project Repositories ##
+
+
+<a href="https://github.com/kier0813/PCA_Project">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=PCA_Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<!-- 
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+ -->
+<br>
+<br>
+
+## 📊Github Stats ##
+
+<a href="https://github.com/kier0813">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kier0813&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<br>
+<br>
+
+## 🔧Skills ##
+
+  
 
 
 <!--
