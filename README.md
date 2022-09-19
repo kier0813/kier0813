@@ -34,6 +34,10 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=tensorflow_img_machine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/kier0813/playstore_crawling_and_keybert_ml">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=playstore_crawling_and_keybert_ml&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 <br>
 
