@@ -9,6 +9,9 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 ## 📌Pinned Project Repositories ##
 
+<a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/kier0813/PCA_Project">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=PCA_Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
