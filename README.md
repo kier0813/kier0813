@@ -5,7 +5,7 @@
 
 I'm a passionate data analyst/scientist who is eager to learn about new materials and languages. Have grown up in Korea, China, and Us, experiencing diverse culture that helps to merge with others very well. Ready to cooperate with and listen to others well and desire to take in new knowledge and skills.
 
-
+📫 How to reach me: kier0813@gmail.com
 
 ## 📌Pinned Project Repositories ##
 
@@ -59,17 +59,3 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 
 
-<!--
-**kier0813/kier0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
