@@ -12,9 +12,10 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 <p align="left">
 
-  <a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&theme=react-dark" />
-  </a>
+<a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
+  <img align="center" style="margin:1rem 0.5rem"
+       src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
   <a href="https://github.com/kier0813/GIS_optimizing_hospital_location">
     <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=GIS_optimizing_hospital_location&theme=react-dark" />
