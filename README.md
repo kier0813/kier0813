@@ -67,10 +67,6 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 <br>
 <br>
 
-## 📊Github Stats ##
-<a href="https://github.com/kier0813">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kier0813&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 <br>
