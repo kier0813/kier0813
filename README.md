@@ -14,7 +14,7 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 - [CLIP_Dissect_Activation_Img](https://github.com/kier0813/CLIP_Dissect_Activation_Img) – CLIP activation 기반 감정/특징 시각화
 - [GIS_optimizing_hospital_location](https://github.com/kier0813/GIS_optimizing_hospital_location) – GIS 기반 병원 위치 최적화
 - [Bank_Intern_Source_Code](https://github.com/kier0813/Bank_Intern_Source_Code) – 은행 인턴 당시 분석 코드
-- [ds3_gamedata_visualization](https://github.com/kier0813/ds3_gamedata_visualization) – 다크소울3 게임데이터 시각화
+- [ds3_gamedata_visualization](https://github.com/kier0813/ds3_gamedata_visualization) – 게임데이터 시각화
 - [tensorflow_img_machine](https://github.com/kier0813/tensorflow_img_machine)
 - [playstore_crawling_and_keybert_ml](https://github.com/kier0813/playstore_crawling_and_keybert_ml)
 
