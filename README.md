@@ -9,33 +9,15 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 ## 📌 Pinned Project Repositories
 
-<p align="left">
+## 📌 Pinned Project Repositories
 
-  <a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&theme=react-dark" />
-  </a>
+- [CLIP_Dissect_Activation_Img](https://github.com/kier0813/CLIP_Dissect_Activation_Img) – CLIP activation 기반 감정/특징 시각화
+- [GIS_optimizing_hospital_location](https://github.com/kier0813/GIS_optimizing_hospital_location) – GIS 기반 병원 위치 최적화
+- [Bank_Intern_Source_Code](https://github.com/kier0813/Bank_Intern_Source_Code) – 은행 인턴 당시 분석 코드
+- [ds3_gamedata_visualization](https://github.com/kier0813/ds3_gamedata_visualization) – 다크소울3 게임데이터 시각화
+- [tensorflow_img_machine](https://github.com/kier0813/tensorflow_img_machine)
+- [playstore_crawling_and_keybert_ml](https://github.com/kier0813/playstore_crawling_and_keybert_ml)
 
-  <a href="https://github.com/kier0813/GIS_optimizing_hospital_location">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=GIS_optimizing_hospital_location&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/Bank_Intern_Source_Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=Bank_Intern_Source_Code&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/ds3_gamedata_visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=ds3_gamedata_visualization&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/tensorflow_img_machine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=tensorflow_img_machine&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/playstore_crawling_and_keybert_ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kier0813&repo=playstore_crawling_and_keybert_ml&theme=react-dark" />
-  </a>
-
-</p>
 
 <br>
 <br>
