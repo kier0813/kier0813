@@ -12,32 +12,55 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 <p align="left">
 
-<a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
-  <img align="center" style="margin:1rem 0.5rem"
-       src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kier0813/CLIP_Dissect_Activation_Img">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=CLIP_Dissect_Activation_Img&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kier0813/GIS_optimizing_hospital_location">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=GIS_optimizing_hospital_location&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/kier0813/GIS_optimizing_hospital_location">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=GIS_optimizing_hospital_location&theme=react-dark" />
-  </a>
+  <tr>
+    <td>
+      <a href="https://github.com/kier0813/Bank_Intern_Source_Code">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=Bank_Intern_Source_Code&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kier0813/ds3_gamedata_visualization">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=ds3_gamedata_visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/kier0813/Bank_Intern_Source_Code">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=Bank_Intern_Source_Code&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/ds3_gamedata_visualization">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=ds3_gamedata_visualization&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/tensorflow_img_machine">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=tensorflow_img_machine&theme=react-dark" />
-  </a>
-
-  <a href="https://github.com/kier0813/playstore_crawling_and_keybert_ml">
-    <img src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=playstore_crawling_and_keybert_ml&theme=react-dark" />
-  </a>
+  <tr>
+    <td>
+      <a href="https://github.com/kier0813/tensorflow_img_machine">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=tensorflow_img_machine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kier0813/playstore_crawling_and_keybert_ml">
+        <img align="center" style="margin:1rem 0.5rem"
+             src="https://github-readme-stats-kier.vercel.app/api/pin/?username=kier0813&repo=playstore_crawling_and_keybert_ml&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </p>
+
 
 
 
