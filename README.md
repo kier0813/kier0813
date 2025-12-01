@@ -7,7 +7,6 @@ I'm a passionate data analyst/scientist who is eager to learn about new material
 
 📫 How to reach me: kier0813@gmail.com
 
-## 📌 Pinned Project Repositories
 
 ## 📌 Pinned Project Repositories
 
